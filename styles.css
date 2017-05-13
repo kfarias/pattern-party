@@ -22,7 +22,7 @@ hr {
   color: #F2F2F2;
   font-weight: 300;
   font-size: 20px;
-  margin-left: 10px;
+  margin-left: 65px;
 }
 
 .party {
@@ -43,7 +43,8 @@ hr {
 
 .tabs {
   margin-top: 50px;
-  margin-right: 10px;
+  margin-left: auto;
+  margin-right: auto;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -102,6 +103,9 @@ hr {
   display: block;
 }
 
+.tab {
+  border: 1px solid #D1D2D3;
+}
 
 @media (max-width: 480px) {
     body {
